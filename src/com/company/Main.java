@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// тернальный оператор - ускоряет if-else
+//добавили комментарий для гитхаба
 
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
